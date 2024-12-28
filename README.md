@@ -9,7 +9,7 @@ In an Ec2 instance Pyhton is already installed or by default. We have to check v
 ### 3) Installed pip which is python's own package manager.
 ### 4) make an app for python myapp.
 ### 5) installed virtual environment for the python and venv source activated.
-### 6) Make an file requirements.txt
+### 6) Make an file requirements.txt and installed it.
 
 ![Screenshot (17)](https://github.com/user-attachments/assets/273e78b9-ae36-4e32-9ed5-9bd41d46d1a6)
 
